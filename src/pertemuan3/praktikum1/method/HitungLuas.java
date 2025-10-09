@@ -31,7 +31,7 @@ public class HitungLuas {
         float luas3 = hitungLuasSegiTiga(alas, tinggi);
         System.out.println("Luas persegi panjang dgn panjang " + p + " dan lebar " + l + " = " + luas1);
         System.out.println("Luas lingkaran dgn jari2 " + jari + " = " + luas2);
-        System.out.println("Luas segitiga dgn alas " + alas + " dan tinggi " + tinggi + " = " + luas2);
+        System.out.println("Luas segitiga dgn alas " + alas + " dan tinggi " + tinggi + " = " + luas3);
     }
 
 }
