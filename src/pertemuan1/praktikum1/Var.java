@@ -1,3 +1,5 @@
+package pertemuan1.praktikum1;
+
 public class Var {
     public static void main(String[] args) {
         String siswa1 = "Armind Maulani";

@@ -1,3 +1,5 @@
+package pertemuan1.praktikum1;
+
 public class PabrikTusukGigi {
     public static void main(String[] args) {
 //        int jam_kerja_perhari = 8;

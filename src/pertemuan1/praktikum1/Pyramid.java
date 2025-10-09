@@ -1,3 +1,5 @@
+package pertemuan1.praktikum1;
+
 public class Pyramid {
     static int tinggi = 12;
 

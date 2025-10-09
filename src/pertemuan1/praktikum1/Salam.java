@@ -1,3 +1,5 @@
+package pertemuan1.praktikum1;
+
 public class Salam {
     public static void main(String[] x) {
         IO.println("Apa kabar..?");

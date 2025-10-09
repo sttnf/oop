@@ -1,3 +1,5 @@
+package pertemuan1.praktikum1;
+
 public class Operasi {
     public static void main(String[] args) {
         float rad1 = 14.0F;

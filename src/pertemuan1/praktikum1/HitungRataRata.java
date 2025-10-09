@@ -1,3 +1,5 @@
+package pertemuan1.praktikum1;
+
 public class HitungRataRata {
     public static void main(String[] args) {
         int[] nilai = {1, 2, 3, 5, 6, 7, 9, 10, 23};

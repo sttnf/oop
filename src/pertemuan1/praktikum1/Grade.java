@@ -1,3 +1,5 @@
+package pertemuan1.praktikum1;
+
 public class Grade {
     public static void main(String[] args) {
         int[] nilai = {88, 26, 67, 92, 55, 49};
@@ -15,7 +17,7 @@ public class Grade {
             } else {
                 grade = 'E';
             }
-            System.out.println("Grade = " + grade);
+            System.out.println("pertemuan1.praktikum1.Grade = " + grade);
         }
 
 

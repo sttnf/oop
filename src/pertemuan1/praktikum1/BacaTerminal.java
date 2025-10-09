@@ -1,3 +1,5 @@
+package pertemuan1.praktikum1;
+
 import java.util.Scanner;
 
 public class BacaTerminal {
