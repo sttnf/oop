@@ -52,7 +52,7 @@ public class OlahNilai {
             char grade = cekGrade(n);
             String keterangan = cekLulus(n);
             String predikat = cekPredikat(grade);
-            System.out.println(n + "\t" + grade + "\t" + keterangan + "\t\t" + predikat);
+            System.out.println(n + "\t\t" + grade + "\t\t" + keterangan + "\t\t" + predikat);
         }
     }
 }
