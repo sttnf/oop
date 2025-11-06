@@ -1,4 +1,4 @@
-package pertemuan7.alatmusik.assets;
+package pertemuan7.assets;
 
 public interface Assets {
     public double nilaiAsset();

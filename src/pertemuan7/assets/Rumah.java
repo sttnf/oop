@@ -1,4 +1,4 @@
-package pertemuan7.alatmusik.assets;
+package pertemuan7.assets;
 
 public class Rumah implements Assets {
     public double luas, tipe;
